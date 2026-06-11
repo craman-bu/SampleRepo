@@ -20,7 +20,7 @@ The scripts live in `./scripts`:
 From the repository root, execute:
 
 ```bash
-python scripts/add_numbers.py 2 3
+python scripts/add_numbers.py 8 9
 python scripts/string_reverse.py hello
 python scripts/is_even.py 8
 ```
@@ -28,7 +28,7 @@ python scripts/is_even.py 8
 To run the R versions:
 
 ```bash
-Rscript scripts/add_numbers.R 2 3
+Rscript scripts/add_numbers.R 20 21
 Rscript scripts/string_reverse.R hello
 Rscript scripts/is_even.R 8
 ```
