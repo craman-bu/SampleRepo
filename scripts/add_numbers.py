@@ -5,7 +5,7 @@ import argparse
 
 
 def add_numbers(a: float, b: float) -> float:
-    #add the numbers
+    #add the numbers a and b
     return a + b
 
 
