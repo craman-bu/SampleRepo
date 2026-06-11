@@ -6,12 +6,14 @@ This repository contains a few basic Python and R scripts, plus unit tests.
 
 The scripts live in `./scripts`:
 
-- `add_numbers.py`: adds two numbers
-- `string_reverse.py`: reverses a string
-- `is_even.py`: checks if an integer is even
 - `add_numbers.R`: adds two numbers
 - `string_reverse.R`: reverses text
 - `is_even.R`: checks if an integer is even
+- `add_numbers.py`: adds two numbers
+- `string_reverse.py`: reverses a string
+- `is_even.py`: checks if an integer is even
+- Adding an extra line
+
 
 ## How to run the scripts
 
