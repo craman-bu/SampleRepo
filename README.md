@@ -1,5 +1,5 @@
 # SampleRepo
-### Boston University
+### Boston University #### author craman
 This repository contains a few basic Python and R scripts, plus unit tests.
 
 ## Scripts
